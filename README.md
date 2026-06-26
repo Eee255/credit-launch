@@ -1,5 +1,4 @@
 
-<img width="310" height="311" alt="analysis" src="https://github.com/user-attachments/assets/8287b5f4-5a77-47bf-825e-1b682cf0e1cc" />
 # AtliQo Bank Credit Card Launch — Customer Segmentation & A/B Testing
 
 End-to-end data science project that identifies an untapped customer segment for a new credit card launch, then validates the launch decision with a statistically rigorous A/B test.
