@@ -1,5 +1,5 @@
 
-# AtliQo Bank Credit Card Launch — Customer Segmentation & A/B Testing
+# AtliQo Bank Credit Card Launch - Customer Segmentation & A/B Testing
 
 End-to-end data science project that identifies an untapped customer segment for a new credit card launch, then validates the launch decision with a statistically rigorous A/B test.
 
